@@ -2,6 +2,7 @@ package rubi.com.main;
 
 public class UpdatingVariables {
     public static void main(String[] args){
+        System.out.println("Hola");
         int salary = 1000;
 
         //bono $200
